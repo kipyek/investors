@@ -10,3 +10,7 @@ const currentYear = currentDate.getFullYear();
 export const startOfYear = new Date(currentYear, 0, 1);
 
 export const endOfYear = new Date(currentYear, 11, 31);
+
+export const investorPaymentData = () => {
+
+}
